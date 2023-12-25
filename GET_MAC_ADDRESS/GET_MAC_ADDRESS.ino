@@ -1,7 +1,7 @@
 #include "WiFi.h"
 
-//C0:49:EF:C9:69:64 (ESP32v1)
-//30:C6:F7:04:E5:80 (ESP32v4)
+//3C:E9:0E:8A:4B:00 (ESP32v1)
+//3C:E9:0E:4C:A0:8C (ESP32v4)
 
 void setup(){
   Serial.begin(115200);
